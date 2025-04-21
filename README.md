@@ -13,7 +13,7 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monstrik14&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srgsprn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🌐 Связаться со мной можно :
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergeysuprun@list.ru) [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/srgsprn) 
